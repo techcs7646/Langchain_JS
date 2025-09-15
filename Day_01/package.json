@@ -13,6 +13,7 @@
   "type": "module",
   "dependencies": {
     "@langchain/google-genai": "^0.2.17",
+    "compute-cosine-similarity": "^1.1.0",
     "dotenv": "^17.2.2",
     "langchain": "^0.3.33"
   }
